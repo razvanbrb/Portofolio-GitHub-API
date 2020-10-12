@@ -169,7 +169,7 @@ a.btn-dark {
 
 /* Cursor */
 .txt-type > .txt {
-    border-right: 0.2rem solid #fff;
+    border-right: 0.2rem solid rgb(3, 131, 93);
 } 
 
 /* About section */
