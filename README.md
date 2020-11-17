@@ -67,12 +67,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/razvanbrb/Po
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/badge/1-Contributors%20-brightgreen
-[contributors-url]: https://github.com/IrynaSpyrydonova/portfolio-GitHub-API/graphs/contributors
+[contributors-url]: https://github.com/razvanbrb/Portfolio-GitHub-API/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/-Forks-blue
-[forks-url]: https://github.com/IrynaSpyrydonova/portfolio-GitHub-API/network
+[forks-url]: https://github.com/razvanbrb/Portfolio-GitHub-API/network
 [issues-shield]: https://img.shields.io/badge/-ISSUES-green
-[issues-url]: https://github.com/IrynaSpyrydonova/portfolio-GitHub-API/issues
+[issues-url]: https://github.com/razvanbrb/Portfolio-GitHub-API/issues
 [pr-shield]: https://img.shields.io/badge/-Pull%20Requests%20-blue
-[pr-url]: https://github.com/IrynaSpyrydonova/portfolio-GitHub-API/pulls
+[pr-url]: https://github.com/razvanbrb/Portfolio-GitHub-API/pulls
 [license-shield]: https://img.shields.io/badge/-LICENSE-brightgreen
-[license-url]: https://github.com/IrynaSpyrydonova/portfolio-GitHub-API/blob/master/LICENSE
+[license-url]: https://github.com/razvanbrb/Portfolio-GitHub-API/blob/master/LICENSE
