@@ -13,7 +13,7 @@
 ## About the project
 
 
-![PORTOFOLIO](public/assets/Portofolio.png)
+![PORTOFOLIO](public/assets/Portofolio.PNG)
 
 
 The main idea of this project is to practice and understand the concepts of asynchronous programming, using `Classes` and `Promises` with `REST API`. And build a Portofolio so that you can have all your work in one place.   
