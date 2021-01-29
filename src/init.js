@@ -23,7 +23,7 @@ async function getWorks () {
     const url = "https://api.github.com/users/razvanbrb/repos\?page\=1\&per_page\=100" 
     const response = await fetch (url);
     const result = await response.json();
-    const arrayOfProjectsId = [];
+    const arrayOfProjectsId = [1, 2, 3, 4, 5];
     result.forEach(item => {
         if(!arrayOfProjectsId.includes( item.id)){
             return
