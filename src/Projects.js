@@ -12,7 +12,7 @@ export class Projects{
         divEl.className = 'item';
 
         const imgWrapper = document.createElement('div');
-        import.className = 'item-image';
+        imgWrapper.className = 'item-image';
         divEl.appendChild(imgWrapper);
 
         const imgEl = document.createElement('img');
