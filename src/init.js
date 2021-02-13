@@ -26,7 +26,7 @@ async function getWorks () {
     const result = await response.json();
     console.log(result);
     console.log(response);
-    const arrayOfProjectsId = [265817419, 267314573, 275780508, 270301227, 297422714];
+    const arrayOfProjectsId = [265817419, 267314573, 275780508, 270301227, 297422714, 286198849];
     result.forEach(item => {
         if(!arrayOfProjectsId.includes( item.id)){
             return
