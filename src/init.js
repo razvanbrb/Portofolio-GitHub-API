@@ -20,13 +20,13 @@ function init(){
 const mainDiv = document.querySelector('.items');
 async function getWorks () {
 
-    const url = "https://api.github.com/users/IrynaSpyrydonova/repos\?page\=1\&per_page\=100"
+    const url = "https://api.github.com/users/razvanbrb/repos\?page\=1\&per_page\=100"
 
     const response = await fetch (url);
     const result = await response.json();
     console.log(result);
     console.log(response);
-    const arrayOfProjectsId = [1, 2, 3, 4, 5];
+    const arrayOfProjectsId = [265817419, 267314573, 275780508, 270301227, 297422714, 286198849];
     result.forEach(item => {
         if(!arrayOfProjectsId.includes( item.id)){
             return
